@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+
+  #fundo {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+
+  #form-perguntas {
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: black;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  input {
+    width: 300px;
+    padding: 10px;
+    margin: 5px;
+  }
+
+  button {
+    margin: 5px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+  }

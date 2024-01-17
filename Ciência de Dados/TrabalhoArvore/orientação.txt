@@ -1,0 +1,13 @@
+Aplicação com Árvore de Decisão - Sistema Especialista
+
+O trabalho deve ser desenvolvido em grupo com, no máximo, 03 integrantes.
+
+1º A equipe deve selecionar um problema real selecionando uma base de dados no UCI Datasets ou Kaggle Datasets.
+2º Traduzir e explicar o problema a ser solucionado por meio daquela base (Essas informações deverão ser inseridas em um relatório sobre a aplicação desenvolvida)
+3º Gerar a Árvore de Decisão com o conjunto de dados (use o Orange):
+    - Separar o conjunto em 70% para treino e 30% para teste
+    - Após gerar a Árvore, realizar os testes e apresentar a Matriz de Confusão. A discussão sobre o resultado alcançado deve ser colocada no relatório final.
+4º Desenvolver uma aplicação em que sejam apresentadas as perguntas ao usuário e, conforme ele responde, novas perguntas são apresentadas até que se chegue à conclusão (folha da árvore). 
+    - As condições serão obtidas a partir das regras extraídas da Árvore de Decisão.
+    - A linguagem de programação é livre (C#, Python, C++, Scratch, Javascript, PHP...).
+5º O relatório final deve ser elaborado em Word, contendo a explicação do problema, a árvore de decisão geradas, o resultado do teste com a matriz de confusão e telas e explicação do funcionamento da aplicação desenvolvida.
